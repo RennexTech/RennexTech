@@ -1,6 +1,6 @@
 # 🚀 Nixon Ekirapa | RennexTech
 
-> *Building the future through Deep Logic* — AI Architect, Django Specialist, Cybersecurity Engineer
+> *Building the future through Deep Logic* — Backend-first Django developer. Full-stack when needed. Cybersecurity enthusiast, focusing on reverse engineering software and hardware.
 
 ---
 
@@ -89,17 +89,7 @@ Explore my technical documentation and projects:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RennexTech&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RennexTech&theme=prussian&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RennexTech&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## ✍️ Daily Dev Wisdom
+## ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
@@ -114,8 +104,6 @@ If you find my projects useful and want to support ongoing development:
 ---
 
 <div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=RennexTech&icon=10&color=3)](https://visitcount.itsvg.in)
 
 **Building systems from first principles.**  
 *Deep Logic | Open Source | Always Learning*
