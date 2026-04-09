@@ -1,71 +1,127 @@
+# 🚀 Nixon Ekirapa | RennexTech
+
+> *Building the future through Deep Logic* — AI Architect, Django Specialist, Cybersecurity Engineer
+
+---
+
+## 💫 About Me
+
+I am currently developing a **Django-based backend** for my personal portfolio (launching publicly within 1-2 years) using **Python**, with **ReactJS** integration for dynamic frontends.
+
+At the moment, I am actively learning **ReactJS** and refining my **CSS skills**, allowing me to confidently switch between vanilla CSS and React-based approaches when building modern user interfaces. This ensures users can run web applications both **offline and online**.
+
+I also have a strong interest in **reverse engineering** and **malware analysis**, and I'm always open to deep technical discussions in that space.
+
+### Low-Level Specialization
+On the systems side, I work with **C (WinAPI)** and **MASM assembly**, primarily for reverse engineering tasks and understanding system internals. **Timeline: 1-2 years to mastery.**
+
+### Hardware & Gaming
+I enjoy computer hardware, GPUs, computer building, and gaming setups—even though I don't game much, it's always fun to explore that side of the tech landscape.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nixon-ekirapa) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCCVaWIyRTUzBpqJQxapqGXg) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rennextech)
+
+---
+
+## 📚 My Work
+
+Explore my technical documentation and projects:
+
+- **Portfolio**: [portfolio.rennextech.co.ke](https://portfolio.rennextech.co.ke)
+- **Website**: [www.rennextech.co.ke](https://www.rennextech.co.ke)
+- **Research Library**: [sites.google.com/view/rennextech/home](https://sites.google.com/view/rennextech/home)
+
+---
+
+## 💻 Tech Stack
+
+### Backend & Full-Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frontend & UI
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Systems & Low-Level
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Design & Creative Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### Infrastructure & Data
+![Apache Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
+### Testing & Automation
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### Hardware
+![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RennexTech&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RennexTech&theme=prussian&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RennexTech&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+## ✍️ Daily Dev Wisdom
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
+## 💰 Support My Work
+
+If you find my projects useful and want to support ongoing development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rennex)
+
+---
+
 <div align="center">
-<!-- HIGH-TECH HEADER -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3D00ff41%26height%3D150%26section%3Dheader%26text%3DRENNEXTECH%26fontSize%3D70%26animation%3Dtwinkling%26fontAlignY%3D38" />
 
-<!-- PRIMARY LINKS (THE TRIPLE THREAT) -->
+[![Profile Views](https://visitcount.itsvg.in/api?id=RennexTech&icon=10&color=3)](https://visitcount.itsvg.in)
 
-<h3> 🌐 Operational Hubs </h3>
-
-Primary Portfolio • Technical Library • Legacy Archive
-
-<!-- SOCIAL BADGES (PLASTIC STYLE) -->
-
-<a href="https://linkedin.com/in/nixon-ekirapa" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dplastic%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="https://youtube.com/@UCCVaWIyRTUzBpqJQxapqGXg" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-%2523FF0000.svg%3Fstyle%3Dplastic%26logo%3DYouTube%26logoColor%3Dwhite" /></a>
-<a href="mailto:rennextech@gmail.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dplastic%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-<a href="https://buymeacoffee.com/rennex" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Buy%2520Me%2520a%2520Coffee-ffdd00%3Fstyle%3Dplastic%26logo%3Dbuy-me-a-coffee%26logoColor%3Dblack" /></a>
+**Building systems from first principles.**  
+*Deep Logic | Open Source | Always Learning*
 
 </div>
 
-💫 System Executive Summary
+---
 
-I am a Software Architect and Security Researcher specializing in the intersection of high-level web frameworks and low-level system internals. Currently, I am engineering a robust, Django-powered ecosystem that serves as the backbone for my technical operations.
-
-Current Mission: Bridging Django backends with React.js frontends to create "Hybrid-Ready" applications that perform flawlessly in both online and offline environments.
-
-The Watchman Side: Actively refining my mastery of C (WinAPI) and x86 Assembly (MASM). My goal is total proficiency in reverse engineering and malware analysis within the next 24 months.
-
-Aesthetic & UI: I switch seamlessly between Vanilla CSS for performance and Modern Frameworks for scalability, ensuring every interface is a balance of beauty and speed.
-
-💻 Technical Arsenal (Engineered for Performance)
-
-🚀 Web & Backend Intelligence
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/python-3670A0%3Fstyle%3Dplastic%26logo%3Dpython%26logoColor%3Dffdd54" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/django-%2523092E20.svg%3Fstyle%3Dplastic%26logo%3Ddjango%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/DJANGO-REST-ff1709%3Fstyle%3Dplastic%26logo%3Ddjango%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dplastic%26logo%3Dreact%26logoColor%3D%252361DAFB" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dplastic%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dplastic%26logo%3Dhtml5%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-%25231572B6.svg%3Fstyle%3Dplastic%26logo%3Dcss3%26logoColor%3Dwhite" />
-
-🛡️ Low-Level & Security Research
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c-%252300599C.svg%3Fstyle%3Dplastic%26logo%3Dc%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/c%2B%2B-%252300599C.svg%3Fstyle%3Dplastic%26logo%3Dc%252B%252B%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PowerShell-%25235391FE.svg%3Fstyle%3Dplastic%26logo%3Dpowershell%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Windows%2520Terminal-%25234D4D4D.svg%3Fstyle%3Dplastic%26logo%3Dwindows-terminal%26logoColor%3Dwhite" />
-
-🧠 AI, Data & Automation
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-%2523FF6F00.svg%3Fstyle%3Dplastic%26logo%3DTensorFlow%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/pandas-%2523150458.svg%3Fstyle%3Dplastic%26logo%3Dpandas%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/-playwright-%25232EAD33%3Fstyle%3Dplastic%26logo%3Dplaywright%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GoogleCloud-%25234285F4.svg%3Fstyle%3Dplastic%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" />
-
-🗄️ Database & Infrastructure
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/postgres-%2523316192.svg%3Fstyle%3Dplastic%26logo%3Dpostgresql%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-4479A1.svg%3Fstyle%3Dplastic%26logo%3Dmysql%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/sqlite-%252307405e.svg%3Fstyle%3Dplastic%26logo%3Dsqlite%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dplastic%26logo%3Dgit%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/github%2520actions-%25232671E5.svg%3Fstyle%3Dplastic%26logo%3Dgithubactions%26logoColor%3Dwhite" />
-
-📊 System Analytics (Operational Metrics)
-
-<p align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRennexTech%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRennexTech%26layout%3Dcompact%26theme%3Dtokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3DRennexTech%26theme%3Dtokyonight%26hide_border%3Dfalse" />
-</p>
-
-💬 Intelligence Feed
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight" />
-</p>
-
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=RennexTech&icon=10&color=3" />
-</div>
-
-<div align="center">
-<sub>This profile is maintained by the <b>Watchman</b>. Operational status: <b>Active</b>.</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
