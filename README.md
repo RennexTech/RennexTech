@@ -8,7 +8,7 @@
 
 I am currently developing a **Django-based backend** for my personal portfolio (launching publicly within 1-2 years) using **Python**, with **ReactJS** integration for dynamic frontends.
 
-At the moment, I am actively learning **ReactJS** and refining my **CSS skills**, allowing me to confidently switch between vanilla CSS and React-based approaches when building modern user interfaces. This ensures users can run web applications both **offline and online**.
+At the moment, I am actively learning **Django** and planning for **ReactJS** later on, and refining my **CSS skills**, allowing me to confidently switch between vanilla CSS and React-based approaches when building modern user interfaces. This ensures users can run web applications both **offline and online**.
 
 I also have a strong interest in **reverse engineering** and **malware analysis**, and I'm always open to deep technical discussions in that space.
 
