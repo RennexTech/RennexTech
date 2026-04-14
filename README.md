@@ -1,4 +1,4 @@
-# 🚀 Nixon Ekirapa | RennexTech
+# 🚀 Nick the Chief | RennexTech
 
 > *Building the future through Deep Logic* — Backend-first Django developer. Full-stack when needed. Cybersecurity enthusiast, focusing on reverse engineering software and hardware and some TCP/IP networking.
 
