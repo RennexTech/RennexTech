@@ -1,6 +1,6 @@
 # 🚀 Nixon Ekirapa | RennexTech
 
-> *Building the future through Deep Logic* — Backend-first Django developer. Full-stack when needed. Cybersecurity enthusiast, focusing on reverse engineering software and hardware.
+> *Building the future through Deep Logic* — Backend-first Django developer. Full-stack when needed. Cybersecurity enthusiast, focusing on reverse engineering software and hardware and some TCP/IP networking.
 
 ---
 
@@ -70,7 +70,6 @@ Explore my technical documentation and projects:
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
@@ -82,7 +81,7 @@ Explore my technical documentation and projects:
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote for the day...
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
