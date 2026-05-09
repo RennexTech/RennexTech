@@ -1,22 +1,15 @@
 # 🚀 Nick the Chief | RennexTech
 
-> *Building the future through Deep Logic* — Backend-first Django developer. Full-stack when needed. Cybersecurity enthusiast, focusing on reverse engineering software and hardware and some TCP/IP networking.
-
+> **Backend-first Django developer**. Full-stack when needed.
+> **Cybersecurity newbie**, focusing on reverse engineering software and hardware and some TCP/IP networking.
+> Am a **beginner** exploring low-level systems... I'm always open to deep technical discussions in that space where I work with C and Assembly. 
 ---
 
-## 💫 About Me
+Working on a small personal portfolio using **Django**. 
 
-I am currently developing a **Django-based backend** for my personal portfolio (launching publicly within 1-2 years) using **Python**, with **ReactJS** integration for dynamic frontends.
+Active using **Django** and **Vanilla/Normal CSS-JS combo** for webapps that can run **locally** and in the **cloud**.  
 
-At the moment, I am actively learning **Django** and planning for **ReactJS** later on, and refining my **CSS skills**, allowing me to confidently switch between vanilla CSS and React-based approaches when building modern user interfaces. This ensures users can run web applications both **offline and online**.
-
-I also have a strong interest in **reverse engineering** and **malware analysis**, and I'm always open to deep technical discussions in that space.
-
-### Low-Level Specialization
-On the systems side, I work with **C (WinAPI)** and **MASM assembly**, primarily for reverse engineering tasks and understanding system internals. **Timeline: 1-2 years to mastery.**
-
-### Hardware & Gaming
-I enjoy computer hardware, GPUs, computer building, and gaming setups—even though I don't game much, it's always fun to explore that side of the tech landscape.
+**Computer hardware and gaming setups** - Its always fun to explore that side of the tech landscape.
 
 ---
 
@@ -41,14 +34,12 @@ Explore my technical documentation and projects:
 
 ### Backend & Full-Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Frontend & UI
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -58,13 +49,7 @@ Explore my technical documentation and projects:
 
 ### Design & Creative Tools
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### Testing & Automation
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -88,10 +73,7 @@ If you find my projects useful and want to support ongoing development:
 <div align="center">
 
 **Building systems from foundational principles.**  
-*Deep Logic | Open Source | Always Learning*
 
 </div>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
