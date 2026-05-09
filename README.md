@@ -1,8 +1,8 @@
 # 🚀 Nick the Chief | RennexTech
 
-> **Backend-first Django developer**. Full-stack when needed.
-> **Cybersecurity newbie**, focusing on reverse engineering software and hardware and some TCP/IP networking.
-> Am a **beginner** exploring low-level systems... I'm always open to deep technical discussions in that space where I work with C and Assembly. 
+> **Backend-first Django developer**. Full-stack when needed. <br>
+> **Cybersecurity newbie**, focusing on reverse engineering software and hardware and some TCP/IP networking. <br>
+> **Beginner** exploring low-level systems... Always open to deep technical discussions in that space where I work with C and Assembly. <br>
 ---
 
 Working on a small personal portfolio using **Django**. 
