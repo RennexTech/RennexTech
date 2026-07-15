@@ -10,8 +10,9 @@
 - **Portfolio**: [portfolio.rennextech.co.ke](https://portfolio.rennextech.co.ke)
 - **Website**: [www.rennextech.co.ke](https://www.rennextech.co.ke)
 
-### Testing & Automation
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+### Backend Development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ## 💰 Support My Work
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rennex)
